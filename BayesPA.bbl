@@ -1,0 +1,449 @@
+\begin{thebibliography}{74}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Adams and MacKay(2007)]{adams2007bayesian}
+Ryan~Prescott Adams and David MacKay.
+\newblock Bayesian online changepoint detection.
+\newblock \emph{arXiv preprint arXiv:0710.3742}, 2007.
+
+\bibitem[Ahn et~al.(2012)Ahn, Korattikara, and Welling]{welling2012mc}
+Sungjin Ahn, Anoop Korattikara, and Max Welling.
+\newblock Bayesian posterior sampling via stochastic gradient {Fisher} scoring.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, 2012.
+
+\bibitem[Antoniak(1974)]{antoniak1974mixtures}
+Charles~E. Antoniak.
+\newblock {Mixtures of {Dirichlet} processes with applications to {Bayesian}
+  nonparametric problems}.
+\newblock \emph{Annals of Statistics}, pages 1152--1174, 1974.
+
+\bibitem[Arora et~al.(2012)Arora, Hazan, and Kale]{arora2012multiplicative}
+Sanjeev Arora, Elad Hazan, and Satyen Kale.
+\newblock The multiplicative weights update method: a meta-algorithm and
+  applications.
+\newblock \emph{Theory of Computing}, 8\penalty0 (1):\penalty0 121--164, 2012.
+
+\bibitem[Banerjee(2006)]{bayes-bounds}
+Arindam Banerjee.
+\newblock On {Bayesian} bounds.
+\newblock In \emph{International Conference on Machine Learning}, 2006.
+
+\bibitem[Bardenet et~al.(2014)Bardenet, Doucet, and
+  Holmes]{bardenet2014towards}
+R{\'e}mi Bardenet, Arnaud Doucet, and Chris Holmes.
+\newblock Towards scaling up {Markov chain Monte Carlo}: an adaptive
+  subsampling approach.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, 2014.
+
+\bibitem[Blei and McAuliffe(2010)]{blei2010supervised}
+David~M. Blei and Jon~D. McAuliffe.
+\newblock {Supervised topic models}.
+\newblock In \emph{Neural Information Processing Systems (NIPS)}, 2010.
+
+\bibitem[Blei et~al.(2003)Blei, Ng, and Jordan]{blei2003lda}
+David~M. Blei, Andrew Ng, and Michael~I. Jordan.
+\newblock Latent {Dirichlet} allocation.
+\newblock \emph{Journal of Machine Learning Research}, 3:\penalty0 993--1022,
+  2003.
+
+\bibitem[Broderick et~al.(2013)Broderick, Boyd, Wibisono, Wilson, and
+  Jordan]{broderick2013streaming}
+Tamara Broderick, Nicholas Boyd, Andre Wibisono, Ashia~C Wilson, and Michael
+  Jordan.
+\newblock Streaming variational bayes.
+\newblock In \emph{Neural Information Processing Systems (NIPS)}, pages
+  1727--1735, 2013.
+
+\bibitem[Canini et~al.(2009)Canini, Shi, and Griffiths]{canini2009online}
+Kevin~R. Canini, Lei Shi, and Thomas Griffiths.
+\newblock Online inference of topics with latent {Dirichlet} allocation.
+\newblock In \emph{International Conference on Artificial Intelligence and
+  Statistics}, pages 65--72, 2009.
+
+\bibitem[Chang and Lin(2011)]{chang2011libsvm}
+Chih-Chung Chang and Chih-Jen Lin.
+\newblock {LIBSVM: a library for support vector machines}.
+\newblock \emph{ACM Transactions on Intelligent Systems and Technology (TIST)},
+  2\penalty0 (3):\penalty0 27, 2011.
+
+\bibitem[Chang and Blei(2010)]{chang2010hierarchical}
+Jonathan Chang and David~M Blei.
+\newblock Hierarchical relational models for document networks.
+\newblock \emph{The Annals of Applied Statistics}, pages 124--150, 2010.
+
+\bibitem[Chen et~al.(2013)Chen, Zhu, Xia, and Zhang]{chen2013generalized}
+Ning Chen, Jun Zhu, Fei Xia, and Bo~Zhang.
+\newblock Generalized relational topic models with data augmentation.
+\newblock In \emph{Proceedings of the Twenty-Third international joint
+  conference on Artificial Intelligence}, pages 1273--1279. AAAI Press, 2013.
+
+\bibitem[Chiang et~al.(2008)Chiang, Marton, and Resnik]{chiang2008emnlp}
+David Chiang, Yuval Marton, and Philip Resnik.
+\newblock {Online large-margin training of syntactic and structural translation
+  features}.
+\newblock In \emph{Conference on Empirical Methods on Natural Language
+  Processing (EMNLP)}, 2008.
+
+\bibitem[Cortes and Vapnik(1995)]{cortes1995support}
+Corinna Cortes and Vladimir Vapnik.
+\newblock Support-vector networks.
+\newblock \emph{Machine Learning}, 20\penalty0 (3):\penalty0 273--297, 1995.
+
+\bibitem[Crammer et~al.(2006)Crammer, Dekel, Keshet, Shalel-Shwartz, and
+  Singer]{crammer2006pa}
+Koby Crammer, Ofer Dekel, Joseph Keshet, Shai Shalel-Shwartz, and Yoram Singer.
+\newblock Online passive-aggressive algorithms.
+\newblock \emph{Journal of Machine Learning Research (JMLR)}, 7:\penalty0
+  551--585, 2006.
+
+\bibitem[Crammer et~al.(2008)Crammer, Dredze, and Pereira]{pereira2008exact}
+Koby Crammer, Mark Dredze, and Fernando Pereira.
+\newblock Exact convex confidence-weighted learning.
+\newblock In \emph{Neural Information Processing Systems (NIPS)}, 2008.
+
+\bibitem[Dempster et~al.(1977)Dempster, Laird, and Rubin]{dempster1977maximum}
+Arthur~P. Dempster, Nan~M. Laird, and Donald~B. Rubin.
+\newblock Maximum likelihood from incomplete data via the {EM} algorithm.
+\newblock \emph{Journal of the Royal statistical Society}, 39\penalty0
+  (1):\penalty0 1--38, 1977.
+
+\bibitem[Devroye(1986)]{devroye1986sample}
+Luc Devroye.
+\newblock \emph{Non-Uniform Random Variate Generation}.
+\newblock Springer, 1986.
+
+\bibitem[Doucet and Johansen(2009)]{doucet2009tutorial}
+Arnaud Doucet and Adam~M Johansen.
+\newblock A tutorial on particle filtering and smoothing: Fifteen years later.
+\newblock \emph{Handbook of Nonlinear Filtering}, 12:\penalty0 656--704, 2009.
+
+\bibitem[Doucet et~al.(2000)Doucet, De~Freitas, Murphy, and
+  Russell]{doucet2000rao}
+Arnaud Doucet, Nando De~Freitas, Kevin Murphy, and Stuart Russell.
+\newblock {Rao-Blackwellised} particle filtering for dynamic {Bayesian}
+  networks.
+\newblock In \emph{Proceedings of the Sixteenth Conference on Uncertainty in
+  Artificial Intelligence}, pages 176--183. Morgan Kaufmann Publishers Inc.,
+  2000.
+
+\bibitem[Dredze et~al.(2008)Dredze, Crammer, and Pereira]{dredze2008confidence}
+Mark Dredze, Koby Crammer, and Fernando Pereira.
+\newblock Confidence-weighted linear classification.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, pages
+  264--271, 2008.
+
+\bibitem[Durret(2010)]{durret2010}
+Rick Durret.
+\newblock \emph{Probabiilty: Theory and Examples}.
+\newblock Cambridge University Press, 2010.
+
+\bibitem[Freund and Schapire(1997)]{freund1997decision}
+Yoav Freund and Robert~E Schapire.
+\newblock A decision-theoretic generalization of on-line learning and an
+  application to boosting.
+\newblock \emph{Journal of Computer and System Sciences}, 55\penalty0
+  (1):\penalty0 119--139, 1997.
+
+\bibitem[Ghahramani and Griffiths(2005)]{Griffiths:tr05}
+Zoubin Ghahramani and Thomas Griffiths.
+\newblock {Infinite latent feature models and the Indian buffet process}.
+\newblock In \emph{Neural Information Processing Systems (NIPS)}, 2005.
+
+\bibitem[Griffiths and Steyvers(2004)]{griffiths2004finding}
+Thomas Griffiths and Mark Steyvers.
+\newblock Finding scientific topics.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 101\penalty0
+  (Suppl 1):\penalty0 5228--5235, 2004.
+
+\bibitem[Hannan(1957)]{hannan1957approximation}
+James Hannan.
+\newblock Approximation to {Bayes} risk in repeated play.
+\newblock \emph{Contributions to the Theory of Games}, 3:\penalty0 97--139,
+  1957.
+
+\bibitem[Hjort(2010)]{hjort2010bayesian}
+Nils~Lid Hjort.
+\newblock \emph{{Bayesian Nonparametrics}}.
+\newblock Cambridge University Press, 2010.
+
+\bibitem[Hoffman et~al.(2013)Hoffman, Blei, Wang, and
+  Paisley]{hoffman2013stochastic}
+Matthew Hoffman, David~M. Blei, Chong Wang, and John Paisley.
+\newblock Stochastic variational inference.
+\newblock \emph{Journal of Machine Learning Research (JMLR)}, 14\penalty0
+  (1):\penalty0 1303--1347, 2013.
+
+\bibitem[Honkela and Valpola(2003)]{honkela2003line}
+Antti Honkela and Harri Valpola.
+\newblock Online variational {Bayesian} learning.
+\newblock In \emph{4th International Symposium on Independent Component
+  Analysis and Blind Signal Separation}, pages 803--808, 2003.
+
+\bibitem[Jaakkola et~al.(1999)Jaakkola, Meila, and Jebara]{jaakkola1999maximum}
+Tommi Jaakkola, Marina Meila, and Tony Jebara.
+\newblock Maximum entropy discrimination.
+\newblock In \emph{Neural Information Processing Systems (NIPS)}, 1999.
+
+\bibitem[Jebara(2001)]{jebara2001discriminative}
+Tony Jebara.
+\newblock \emph{Discriminative, Generative and Imitative learning}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 2001.
+
+\bibitem[Jebara(2011)]{jebara2011mtl}
+Tony Jebara.
+\newblock {Multitask sparsity via maximum entropy discrimination}.
+\newblock \emph{Journal of Machine Learning Research (JMLR)}, 12:\penalty0
+  75--110, 2011.
+
+\bibitem[Jiang et~al.(2012)Jiang, Zhu, Sun, and Xing]{jiang2012monte}
+Qixia Jiang, Jun Zhu, Maosong Sun, and Eric Xing.
+\newblock {Monte Carlo} methods for maximum margin supervised topic models.
+\newblock In \emph{Neural Information Processing Systems (NIPS)}, 2012.
+
+\bibitem[Jordan et~al.(1998)Jordan, Ghahramani, Jaakkola, and
+  Saul]{jordan1998introduction}
+Michael~I. Jordan, Zoubin Ghahramani, Tommi~S. Jaakkola, and Lawrence~K. Saul.
+\newblock \emph{An Introduction to Variational Methods for Graphical Models}.
+\newblock Springer, 1998.
+
+\bibitem[Korattikara et~al.(2014)Korattikara, Chen, and
+  Welling]{korattikara2014austerity}
+Anoop Korattikara, Yutian Chen, and Max Welling.
+\newblock Austerity in {MCMC} land: Cutting the {Metropolis-Hastings} budget.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, 2014.
+
+\bibitem[Lacoste-Julien et~al.(2008)Lacoste-Julien, Sha, and
+  Jordan]{lacoste2008disclda}
+Simon Lacoste-Julien, Fei Sha, and Michael~I Jordan.
+\newblock {DiscLDA}: Discriminative learning for dimensionality reduction and
+  classification.
+\newblock In \emph{Neural Information Processing Systems (NIPS)}, 2008.
+
+\bibitem[Littlestone(1988)]{littlestone1988learning}
+Nick Littlestone.
+\newblock Learning quickly when irrelevant attributes abound: A new
+  linear-threshold algorithm.
+\newblock \emph{Machine learning}, 2\penalty0 (4):\penalty0 285--318, 1988.
+
+\bibitem[Luts et~al.(2013)Luts, Broderick, and Wand]{luts2013real}
+Jan Luts, Tamara Broderick, and Matt Wand.
+\newblock Real-time semiparametric regression.
+\newblock \emph{arXiv:1209.3550}, 2013.
+
+\bibitem[McDonald et~al.(2005)McDonald, Crammer, and
+  Pereira]{McDonald2005parsing}
+Ryan McDonald, Koby Crammer, and Fernando Pereira.
+\newblock Online large-margin training of dependency parsers.
+\newblock In \emph{Annual Meeting of the Association for Computational
+  Linguistics}, 2005.
+
+\bibitem[Michael et~al.(1976)Michael, Schucany, and Haas]{Michael:IG76}
+John~R. Michael, William~R. Schucany, and Roy~W. Haas.
+\newblock Generating random variates using transformations with multiple roots.
+\newblock \emph{Journal of the American Statistician}, 30\penalty0
+  (2):\penalty0 88--90, 1976.
+
+\bibitem[Mimno et~al.(2012)Mimno, Hoffman, and Blei]{mimno2012sparse}
+David Mimno, Matthew Hoffman, and David~M. Blei.
+\newblock Sparse stochastic inference for latent {Dirichlet} allocation.
+\newblock \emph{International Conference on Machine Learning (ICML)}, 2012.
+
+\bibitem[Minka(2001)]{minka2001expectation}
+Thomas~P. Minka.
+\newblock Expectation propagation for approximate {Bayesian} inference.
+\newblock In \emph{Uncertainty in Artificial Intelligence (UAI)}. Morgan
+  Kaufmann Publishers Inc., 2001.
+
+\bibitem[Murphy(2012)]{murphy2012machine_reget}
+Kevin~P. Murphy.
+\newblock \emph{Machine Learning: a Probabilistic Perspective}.
+\newblock MIT Press, 2012.
+
+\bibitem[Patterson and Teh(2013)]{patterson2013stochastic}
+Sam Patterson and Yee~Whye Teh.
+\newblock Stochastic gradient {Riemannian} {Langevin} dynamics on the
+  probability simplex.
+\newblock In \emph{Neural Information Processing Systems (NIPS)}, pages
+  3102--3110, 2013.
+
+\bibitem[Polson and Scott(2011)]{polson2011data}
+Nicholas~G. Polson and Steven~L. Scott.
+\newblock Data augmentation for support vector machines.
+\newblock \emph{Bayesian Analysis}, 6\penalty0 (1):\penalty0 1--23, 2011.
+
+\bibitem[Rifkin and Klautau(2004)]{rifkin2004defense}
+Ryan Rifkin and Aldebaro Klautau.
+\newblock In defense of one-vs-all classification.
+\newblock \emph{Journal of Machine Learning Research (JMLR)}, 5:\penalty0
+  101--141, 2004.
+
+\bibitem[Rosenblatt(1958)]{rosenblatt1958perceptron}
+Frank Rosenblatt.
+\newblock The perceptron: a probabilistic model for information storage and
+  organization in the brain.
+\newblock \emph{Psychological Review}, 65\penalty0 (6):\penalty0 386, 1958.
+
+\bibitem[Shalev-Shwartz and Singer(2006)]{shalev2006convex}
+Shai Shalev-Shwartz and Yoram Singer.
+\newblock Convex repeated games and {Fenchel} duality.
+\newblock In \emph{Neural Information Processing Systems (NIPS)}, pages
+  1265--1272, 2006.
+
+\bibitem[Shalev-Shwartz et~al.(2011)Shalev-Shwartz, Singer, Srebro, and
+  Cotter]{shalev2011pegasos}
+Shai Shalev-Shwartz, Yoram Singer, Nathan Srebro, and Andrew Cotter.
+\newblock Pegasos: Primal estimated sub-gradient solver for {SVM}.
+\newblock \emph{Mathematical Programming}, 127\penalty0 (1):\penalty0 3--30,
+  2011.
+
+\bibitem[Shi and Zhu(2014)]{shi2014bayespa}
+Tianlin Shi and Jun Zhu.
+\newblock Online {Bayesian} passive-aggressive learning.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, 2014.
+
+\bibitem[Steinhardt and Liang(2014)]{steinhardt2014filtering}
+Jacob Steinhardt and Percy Liang.
+\newblock Filtering with abstract particles.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, 2014.
+
+\bibitem[Swendsen and Wang(1987)]{swendsen1987nonuniversal}
+Robert~H. Swendsen and Jian-Sheng Wang.
+\newblock Nonuniversal critical dynamics in {Monte Carlo} simulations.
+\newblock \emph{Physical Review Letters}, 58\penalty0 (2):\penalty0 86--88,
+  1987.
+
+\bibitem[Tanner and Wong(1987)]{tanner1987calculation}
+Martin~A. Tanner and Wing~Hung Wong.
+\newblock The calculation of posterior distributions by data augmentation.
+\newblock \emph{Journal of the American statistical Association}, 82\penalty0
+  (398):\penalty0 528--540, 1987.
+
+\bibitem[Taskar et~al.(2003)Taskar, Guestrin, and Koller]{koller2003max}
+Ben Taskar, Carlos Guestrin, and Daphne Koller.
+\newblock Max-margin {Markov} networks.
+\newblock In \emph{Neural Information Processing Systems (NIPS)}, 2003.
+
+\bibitem[Teh et~al.(2006{\natexlab{a}})Teh, Jordan, Beal, and
+  Blei]{teh2006hierarchical}
+Yee~Whye Teh, M.I. Jordan, M.J. Beal, and David~M. Blei.
+\newblock {Hierarchical {Dirichlet} processes}.
+\newblock \emph{Journal of the American Statistical Association}, 101\penalty0
+  (476), 2006{\natexlab{a}}.
+
+\bibitem[Teh et~al.(2006{\natexlab{b}})Teh, Newman, and
+  Welling]{teh2006collapsed}
+Yee~Whye Teh, David Newman, and Max Welling.
+\newblock {A collapsed variational {Bayesian} inference algorithm for latent
+  {Dirichlet} allocation}.
+\newblock In \emph{Neural Information Processing Systems (NIPS)},
+  2006{\natexlab{b}}.
+
+\bibitem[Van~Dyk and Meng(2001)]{van2001art}
+David Van~Dyk and Xiao-Li Meng.
+\newblock The art of data augmentation.
+\newblock \emph{Journal of Computational and Graphical Statistics}, 10\penalty0
+  (1), 2001.
+
+\bibitem[Vapnik(1995)]{Vapnik:95}
+Vladimir~N. Vapnik.
+\newblock \emph{The Nature of Statistical Learning Theory}.
+\newblock Springer, New York, 1995.
+
+\bibitem[Wainwright and Jordan(2008)]{wainwright2008graphical}
+Martin~J. Wainwright and Michael~I. Jordan.
+\newblock Graphical models, exponential families, and variational inference.
+\newblock \emph{Foundations and Trends{\textregistered} in Machine Learning},
+  1\penalty0 (1-2):\penalty0 1--305, 2008.
+
+\bibitem[Wang and Blei(2012{\natexlab{a}})]{wang2012split}
+Chong Wang and David~M. Blei.
+\newblock {A split-merge {MCMC} algorithm for the hierarchical {Dirichlet}
+  process}.
+\newblock \emph{arXiv preprint arXiv:1201.1657}, 2012{\natexlab{a}}.
+
+\bibitem[Wang and Blei(2012{\natexlab{b}})]{wang2012truncation}
+Chong Wang and David~M. Blei.
+\newblock {Truncation-free online variational inference for {Bayesian}
+  nonparametric models}.
+\newblock In \emph{Neural Information Processing Systems (NIPS)},
+  2012{\natexlab{b}}.
+
+\bibitem[Wang et~al.(2011)Wang, Paisley, and Blei]{wang2011onlinealgo}
+Chong Wang, John Paisley, and David~M. Blei.
+\newblock {Online variational inference for the hierarchical {Dirichlet}
+  process}.
+\newblock In \emph{International Conference on Artificial Intelligence and
+  Statistics (AISTATS)}, 2011.
+
+\bibitem[Welling and Teh(2011)]{welling2011bayesian}
+Max Welling and Yee~Whye Teh.
+\newblock Bayesian learning via stochastic gradient {Langevin} dynamics.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, pages
+  681--688, 2011.
+
+\bibitem[Welling et~al.(2008)Welling, Teh, and Kappen]{welling2008hybrid}
+Max Welling, Yee~Whye Teh, and Hilbert~J. Kappen.
+\newblock Hybrid {variational/Gibbs} collapsed inference in topic models.
+\newblock In \emph{Uncertainty in Artificial Intelligence (UAI)}, 2008.
+
+\bibitem[Xu et~al.(2012)Xu, Zhu, and Zhang]{Xu:NIPS12}
+Minjie Xu, Jun Zhu, and Bo~Zhang.
+\newblock Bayesian nonparametric maximum margin matrix factorization for
+  collaborative prediction.
+\newblock In \emph{Neural Information Processing Systems (NIPS)}, 2012.
+
+\bibitem[Xu et~al.(2013)Xu, Zhu, and Zhang]{xu2013fast}
+Minjie Xu, Jun Zhu, and Bo~Zhang.
+\newblock Fast max-margin matrix factorization with data augmentation.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, pages
+  978--986, 2013.
+
+\bibitem[Zhu(2012)]{zhu2012maxlink}
+Jun Zhu.
+\newblock Max-margin nonparametric latent feature models for link prediction.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, 2012.
+
+\bibitem[Zhu and Xing(2009)]{Zhu:jmlr09}
+Jun Zhu and Eric~P. Xing.
+\newblock Maximum entropy discrimination {Markov} networks.
+\newblock \emph{Journal of Machine Learning Research (JMLR)}, 10:\penalty0
+  2531--2569, 2009.
+
+\bibitem[Zhu et~al.(2011)Zhu, Chen, and Xing]{zhu2011infinite}
+Jun Zhu, Ning Chen, and Eric~P Xing.
+\newblock {Infinite {SVM}: a Dirichlet process mixture of large-margin kernel
+  machines}.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, pages
+  617--624, 2011.
+
+\bibitem[Zhu et~al.(2012)Zhu, Ahmed, and Xing]{zhu2012medlda}
+Jun Zhu, A.~Ahmed, and E.P Xing.
+\newblock {MedLDA: maximum margin supervised topic models}.
+\newblock \emph{Journal of Machine Learning Research (JMLR)}, 13:\penalty0
+  2237--2278, 2012.
+
+\bibitem[Zhu et~al.(2013)Zhu, Zheng, Zhou, and Zhang]{zhu2013scalable}
+Jun Zhu, Xun Zheng, Li~Zhou, and Bo~Zhang.
+\newblock Scalable inference in max-margin topic models.
+\newblock In \emph{ACM SIGKDD Conference on Knowledge Discovery and Data
+  Mining}, 2013.
+
+\bibitem[Zhu et~al.(2014{\natexlab{a}})Zhu, Chen, Perkins, and
+  Zhang]{zhugibbs2013}
+Jun Zhu, Ning Chen, Hugh Perkins, and Bo~Zhang.
+\newblock Gibbs max-margin topic models with data augmentation.
+\newblock \emph{Journal of Machine Learning Research (JMLR)}, 15:\penalty0
+  1073--1110, 2014{\natexlab{a}}.
+
+\bibitem[Zhu et~al.(2014{\natexlab{b}})Zhu, Chen, and Xing]{zhu2013bayesian}
+Jun Zhu, Ning Chen, and Eric~P Xing.
+\newblock Bayesian inference with posterior regularization and applications to
+  infinite latent {SVMs}.
+\newblock \emph{Journal of Machine Learning Research (JMLR, in press; arXiv
+  preprint, arXiv:1210.1766v3)}, 2014{\natexlab{b}}.
+
+\end{thebibliography}

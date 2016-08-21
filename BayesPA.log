@@ -1,0 +1,1255 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.11)  14 NOV 2015 07:08
+entering extended mode
+**E:/Paper-Writing/JMLR/BayesPA/BayesPA.tex
+(E:/Paper-Writing/JMLR/BayesPA/BayesPA.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for loaded.
+(C:\CTEX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(C:\CTEX\MiKTeX\tex\latex\base\size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(E:\Paper-Writing\JMLR\BayesPA\jmlr2e.sty
+Document Style `jmlr' -- January 2001.
+(C:\CTEX\MiKTeX\tex\latex\graphics\epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2010/11/26 v0.05c Graphics/color for pdfTeX
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(C:\CTEX\UserData\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+\aftertitskip=\skip45
+\beforetitskip=\skip46
+\interauthorskip=\skip47
+\aftermaketitskip=\skip48
+\c@example=\count89
+\c@theorem=\count90
+)
+(C:\CTEX\UserData\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\CTEX\UserData\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(C:\CTEX\MiKTeX\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+)
+\everycr=\toks17
+\minrowclearance=\skip51
+)
+\rownum=\count91
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(C:\CTEX\MiKTeX\tex\latex\psnfss\times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(C:\CTEX\UserData\tex\latex\todonotes\todonotes.sty
+Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+(C:\CTEX\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(C:\CTEX\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+\XKV@depth=\count92
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+))
+(C:\CTEX\UserData\tex\latex\pgf\frontendlayer\tikz.sty
+(C:\CTEX\UserData\tex\latex\pgf\basiclayer\pgf.sty
+(C:\CTEX\UserData\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen109
+\pgfutil@tempdimb=\dimen110
+
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfutil-common-lists.tex))
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfutil-latex.def
+\pgfutil@abb=\box26
+
+(C:\CTEX\UserData\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(C:\CTEX\UserData\tex\latex\pgf\basiclayer\pgfcore.sty
+(C:\CTEX\UserData\tex\latex\pgf\systemlayer\pgfsys.sty
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen111
+\pgf@y=\dimen112
+\pgf@xa=\dimen113
+\pgf@ya=\dimen114
+\pgf@xb=\dimen115
+\pgf@yb=\dimen116
+\pgf@xc=\dimen117
+\pgf@yc=\dimen118
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count93
+\c@pgf@countb=\count94
+\c@pgf@countc=\count95
+\c@pgf@countd=\count96
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count97
+\pgfsyssoftpath@bigbuffer@items=\count98
+)
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmath.code.tex
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathcalc.code.tex
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathutil.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen119
+\pgfmath@count=\count99
+\pgfmath@box=\box27
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.code.tex
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.random.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.base.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.round.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code
+.tex))) (C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count100
+))
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen120
+\pgf@picmaxx=\dimen121
+\pgf@picminy=\dimen122
+\pgf@picmaxy=\dimen123
+\pgf@pathminx=\dimen124
+\pgf@pathmaxx=\dimen125
+\pgf@pathminy=\dimen126
+\pgf@pathmaxy=\dimen127
+\pgf@xx=\dimen128
+\pgf@xy=\dimen129
+\pgf@yx=\dimen130
+\pgf@yy=\dimen131
+\pgf@zx=\dimen132
+\pgf@zy=\dimen133
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen134
+\pgf@path@lasty=\dimen135
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen136
+\pgf@shorten@start@additional=\dimen137
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count101
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen138
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen139
+\pgf@pt@y=\dimen140
+\pgf@pt@temp=\dimen141
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen142
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen143
+\pgf@sys@shading@range@num=\count102
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box31
+))
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(C:\CTEX\UserData\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box32
+)
+(C:\CTEX\UserData\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(C:\CTEX\UserData\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen144
+\pgf@nodesepend=\dimen145
+)
+(C:\CTEX\UserData\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(C:\CTEX\UserData\tex\latex\pgf\utilities\pgffor.sty
+(C:\CTEX\UserData\tex\latex\pgf\utilities\pgfkeys.sty
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfkeys.code.tex))
+(C:\CTEX\UserData\tex\latex\pgf\math\pgfmath.sty
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmath.code.tex))
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmath.code.tex)
+\pgffor@iter=\dimen146
+\pgffor@skip=\dimen147
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+))
+(C:\CTEX\UserData\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(C:\CTEX\UserData\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count103
+\pgfplotmarksize=\dimen148
+)
+\tikz@lastx=\dimen149
+\tikz@lasty=\dimen150
+\tikz@lastxsaved=\dimen151
+\tikz@lastysaved=\dimen152
+\tikzleveldistance=\dimen153
+\tikzsiblingdistance=\dimen154
+\tikz@figbox=\box33
+\tikz@figbox@bg=\box34
+\tikz@tempbox=\box35
+\tikz@tempbox@bg=\box36
+\tikztreelevel=\count104
+\tikznumberofchildren=\count105
+\tikznumberofcurrentchild=\count106
+\tikz@fig@count=\count107
+
+(C:\CTEX\UserData\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count108
+\pgfmatrixcurrentcolumn=\count109
+\pgf@matrix@numberofcolumns=\count110
+)
+\tikz@expandcount=\count111
+
+(C:\CTEX\UserData\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(C:\CTEX\UserData\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryposit
+ioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+) (C:\CTEX\MiKTeX\tex\latex\tools\calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count112
+\calc@Bcount=\count113
+\calc@Adimen=\dimen155
+\calc@Bdimen=\dimen156
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count114
+\calc@Cskip=\skip54
+)
+\c@@todonotes@numberoftodonotes=\count115
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks32
+\ex@=\dimen157
+))
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen158
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count116
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count117
+\leftroot@=\count118
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count119
+\DOTSCASE@=\count120
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box37
+\strutbox@=\box38
+\big@size=\dimen159
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count121
+\c@MaxMatrixCols=\count122
+\dotsspace@=\muskip10
+\c@parentequation=\count123
+\dspbrk@lvl=\count124
+\tag@help=\toks33
+\row@=\count125
+\column@=\count126
+\maxfields@=\count127
+\andhelp@=\toks34
+\eqnshift@=\dimen160
+\alignsep@=\dimen161
+\tagshift@=\dimen162
+\tagwidth@=\dimen163
+\totwidth@=\dimen164
+\lineht@=\dimen165
+\@envbody=\toks35
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(C:\CTEX\UserData\tex\latex\pict2e\pict2e.sty
+Package: pict2e 2014/01/12 v0.2z Improved picture commands (HjG,RN,JT)
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\pict2e.cfg
+File: pict2e.cfg 2005/12/29 v1.0 MiKTeX 'pict2e' configuration
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+
+(C:\CTEX\UserData\tex\latex\pict2e\p2e-pdftex.def
+File: p2e-pdftex.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks37
+\@arclen=\dimen166
+\@arcrad=\dimen167
+\@tempdimd=\dimen168
+)
+(C:\CTEX\UserData\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip58
+\subfigcapskip=\skip59
+\subfigcaptopadj=\dimen169
+\subfigbottomskip=\skip60
+\subfigcapmargin=\dimen170
+\subfiglabelskip=\skip61
+\c@subfigure=\count128
+\c@lofdepth=\count129
+\c@subtable=\count130
+\c@lotdepth=\count131
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\CTEX\UserData\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip62
+\subfig@bottom=\skip63
+)
+(C:\CTEX\MiKTeX\tex\latex\tools\bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(C:\CTEX\MiKTeX\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(C:\CTEX\UserData\tex\latex\soul\soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks38
+\SOUL@lasttoken=\toks39
+\SOUL@cmds=\toks40
+\SOUL@buffer=\toks41
+\SOUL@token=\toks42
+\SOUL@spaceskip=\skip64
+\SOUL@ttwidth=\dimen171
+\SOUL@uldp=\dimen172
+\SOUL@ulht=\dimen173
+)
+(C:\CTEX\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count132
+\float@exts=\toks43
+\float@box=\box39
+\@float@everytoks=\toks44
+\@floatcapt=\box40
+)
+(C:\CTEX\UserData\tex\latex\wrapfig\wrapfig.sty
+\wrapoverhang=\dimen174
+\WF@size=\dimen175
+\c@WF@wrappedlines=\count133
+\WF@box=\box41
+\WF@everypar=\toks45
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\CTEX\MiKTeX\tex\latex\tools\xr.sty
+Package: xr 1994/05/28 v5.02 eXternal References (DPC)
+)
+(C:\CTEX\MiKTeX\tex\generic\babel\babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\CTEX\MiKTeX\tex\latex\00miktex\bblopts.cfg
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+(C:\CTEX\MiKTeX\tex\generic\babel\english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(C:\CTEX\MiKTeX\tex\generic\babel\babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count134
+\U@D=\dimen176
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@american = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(C:\CTEX\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen177
+)
+(E:\Paper-Writing\JMLR\BayesPA\slashbox.sty
+slashbox style by K.Yasuoka, May 1993.
+\@slashboxa=\box42
+\@slashboxb=\box43
+\@slashboxc=\box44
+\@slashboxwd=\count135
+\@slashboxht=\count136
+\@slashsepl=\dimen178
+\@slashsepr=\dimen179
+) (C:\CTEX\MiKTeX\tex\latex\tools\tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+\TX@col@width=\dimen180
+\TX@old@table=\dimen181
+\TX@old@col=\dimen182
+\TX@target=\dimen183
+\TX@delta=\dimen184
+\TX@cols=\count137
+\TX@ftn=\toks46
+)
+(C:\CTEX\UserData\tex\latex\placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(C:\CTEX\UserData\tex\latex\algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks47
+\c@algorithm=\count138
+)
+(C:\CTEX\UserData\tex\latex\algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count139
+\c@ALC@line=\count140
+\c@ALC@rem=\count141
+\c@ALC@depth=\count142
+\ALC@tlm=\skip65
+\algorithmicindent=\skip66
+)
+(C:\CTEX\MiKTeX\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2010/11/26 v6.81v Hypertext links for LaTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2010/01/28 v2.1 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\pdfescape.sty
+Package: pdfescape 2010/03/01 v1.9 Provides hex, PDF name and string conversion
+s (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(C:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\hycolor.sty
+Package: hycolor 2009/12/12 v1.6 Color options of hyperref/bookmark (HO)
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\xcolor-patch.sty
+Package: xcolor-patch 2009/12/12 xcolor patch
+))
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\letltxmacro.sty
+Package: letltxmacro 2008/06/24 v1.3 Let assignment for LaTeX macros (HO)
+)
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
+)
+\@linkdim=\dimen185
+\Hy@linkcounter=\count143
+\Hy@pagecounter=\count144
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2010/11/26 v6.81v Hyperref: PDFDocEncoding definition (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+\Hy@SavedSpaceFactor=\count145
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 3993.
+Package hyperref Info: Link nesting OFF on input line 3998.
+Package hyperref Info: Hyper index ON on input line 4001.
+Package hyperref Info: Plain pages OFF on input line 4008.
+Package hyperref Info: Backreferencing OFF on input line 4013.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4228.
+\c@Hy@tempcnt=\count146
+LaTeX Info: Redefining \url on input line 4583.
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+))
+\Fld@menulength=\count147
+\Field@Width=\dimen186
+\Fld@charsize=\dimen187
+Package hyperref Info: Hyper figures OFF on input line 5667.
+Package hyperref Info: Link nesting OFF on input line 5672.
+Package hyperref Info: Hyper index ON on input line 5675.
+Package hyperref Info: backreferencing OFF on input line 5682.
+Package hyperref Info: Link coloring OFF on input line 5687.
+Package hyperref Info: Link coloring with OCG OFF on input line 5692.
+Package hyperref Info: PDF/A mode OFF on input line 5697.
+LaTeX Info: Redefining \ref on input line 5737.
+LaTeX Info: Redefining \pageref on input line 5741.
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\atbegshi.sty
+Package: atbegshi 2010/03/25 v1.12 At begin shipout hook (HO)
+)
+\Hy@abspage=\count148
+\c@Item=\count149
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2010/11/26 v6.81v Hyperref driver for pdfTeX
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\atveryend.sty
+Package: atveryend 2010/03/24 v1.5 Hooks at very end of document (HO)
+Package atveryend Info: \enddocument detected (standard).
+)
+\Fld@listcount=\count150
+\c@bookmark@seq@number=\count151
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2010/03/16 v1.6 Rerun checks for auxiliary files (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\uniquecounter.sty
+Package: uniquecounter 2009/12/18 v1.1 Provides unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+71.
+)
+\Hy@SectionHShift=\skip67
+)
+(C:\CTEX\MiKTeX\tex\latex\ltxmisc\relsize.sty
+Package: relsize 2003/07/04 ver 3.1
+)
+(E:\Paper-Writing\JMLR\BayesPA\BayesPA.aux
+
+LaTeX Warning: Label `eq:hdp_sample_z2' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 175.
+
+ (C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\CTEX\UserData\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count152
+\scratchdimen=\dimen188
+\scratchbox=\box45
+\nofMPsegments=\count153
+\nofMParguments=\count154
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count155
+\MPscratchDim=\dimen189
+\MPnumerator=\count156
+\makeMPintoPDFobject=\count157
+\everyMPtoPDFconversion=\toks49
+) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box46
+Package hyperref Info: Link coloring OFF on input line 175.
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
+)
+\c@section@level=\count158
+)
+LaTeX Info: Redefining \ref on input line 175.
+LaTeX Info: Redefining \pageref on input line 175.
+LaTeX Info: Redefining \nameref on input line 175.
+
+(E:\Paper-Writing\JMLR\BayesPA\BayesPA.out)
+(E:\Paper-Writing\JMLR\BayesPA\BayesPA.out)
+\@outlinefile=\write4
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 193.
+LaTeX Font Info:    Try loading font information for U+msa on input line 193.
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 193.
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 193.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 193.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 195.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 213.
+
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 213.
+ [1{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}
+
+] [2]
+Overfull \hbox (1.22168pt too wide) in paragraph at lines 227--228
+\OT1/ptm/m/n/10.95 rithms pro-vide a generic on-line learn-ing frame-work for m
+ax-margin mod-els, first pre-sented by []Cram-
+ []
+
+[3] [4] [5] [6]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 285.
+ <pa.pdf, id=418, 708.76904pt x 378.35715pt>
+File: pa.pdf Graphic file (type pdf)
+ <use pa.pdf>
+[7] [8 <E:/Paper-Writing/JMLR/BayesPA/pa.pdf>]
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no ¼ in font ptmr7t!
+Missing character: There is no š in font ptmr7t!
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no ¼ in font ptmr7t!
+Missing character: There is no š in font ptmr7t!
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no ¼ in font ptmr7t!
+Missing character: There is no š in font ptmr7t!
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no ¼ in font ptmr7t!
+Missing character: There is no š in font ptmr7t!
+ [9]
+Overfull \hbox (5.94533pt too wide) in paragraph at lines 399--401
+\OMS/cmsy/m/n/10.95 N\OT1/cmr/m/n/10.95 (\OML/cmm/b/it/10.95 [] \OT1/cmr/m/n/1
+0.95 + \OML/cmm/m/it/10.95 []y[]\OML/cmm/b/it/10.95 x[]\OML/cmm/m/it/10.95 ; I
+\OT1/cmr/m/n/10.95 )$\OT1/ptm/m/n/10.95 , and the nor-mal-iza-tion term is $\OT
+1/cmr/m/n/10.95  (\OML/cmm/m/it/10.95 []; \OML/cmm/b/it/10.95 x[]\OML/cmm/m/it
+/10.95 ; y[]\OT1/cmr/m/n/10.95 ) = ([])[] [](\OML/cmm/m/it/10.95 []y[]\OML/cmm
+/b/it/10.95 x[][] \OT1/cmr/m/n/10.95 + []\OML/cmm/m/it/10.95 []\OML/cmm/b/it/
+10.95 x[]x[]\OT1/cmr/m/n/10.95 )$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--419
+
+ []
+
+
+Overfull \hbox (3.04955pt too wide) in paragraph at lines 434--445
+\OT1/ptm/m/it/10.95 where $\OT1/cmr/m/n/10.95  (\OML/cmm/m/it/10.95 []; \OML/c
+mm/b/it/10.95 x[]\OML/cmm/m/it/10.95 ; y[]\OT1/cmr/m/n/10.95 )$ \OT1/ptm/m/it/1
+0.95 is the nor-mal-iza-tion term $\OT1/cmr/m/n/10.95  (\OML/cmm/m/it/10.95 []
+; \OML/cmm/b/it/10.95 x[]\OML/cmm/m/it/10.95 ; y[]\OT1/cmr/m/n/10.95 ) = [][] [
+]\OML/cmm/m/it/10.95 ;$
+ []
+
+[10pdfTeX warning (ext4): destination with the same identifier (name{equation.4
+.12}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.459 
+      ] <graph.pdf, id=579, 722.7pt x 174.34947pt>
+File: graph.pdf Graphic file (type pdf)
+ <use graph.pdf> [11 <E:/Paper-Writing/JMLR/BayesPA/graph.pdf>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 546.
+ [12]
+Overfull \hbox (10.94797pt too wide) in paragraph at lines 644--645
+[]\OT1/ptm/m/it/10.95 Let the ini-tial prior be $\OML/cmm/m/it/10.95 q[]\OT1/cm
+r/m/n/10.95 (\OML/cmm/b/it/10.95 w\OT1/cmr/m/n/10.95 )$\OT1/ptm/m/it/10.95 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 665--668
+
+ []
+
+[13pdfTeX warning (ext4): destination with the same identifier (name{equation.5
+.16}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.772 \end{remark}
+                  ]
+Overfull \hbox (2.84978pt too wide) in paragraph at lines 775--776
+[]\OT1/ptm/m/it/10.95 For non-likelihood BayesPA, the re-gret is $\OMS/cmsy/m/n
+/10.95 R[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 q[]\OT1/cmr/m/n/10.95 (\OML/c
+mm/b/it/10.95 w\OT1/cmr/m/n/10.95 ); \OML/cmm/b/it/10.95 w[]\OML/cmm/m/it/10.95
+ ; y[]\OT1/cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95 `[]\OT1/cmr/m/n/10.95 (\OML/cm
+m/m/it/10.95 q[]\OT1/cmr/m/n/10.95 (\OML/cmm/b/it/10.95 w\OT1/cmr/m/n/10.95 ); 
+\OML/cmm/b/it/10.95 w[]\OML/cmm/m/it/10.95 ; y[]\OT1/cmr/m/n/10.95 )$\OT1/ptm/m
+/it/10.95 , which
+ []
+
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 794.
+[14] [15] [16] [17]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 933.
+ [18]
+Overfull \hbox (1.51764pt too wide) in paragraph at lines 981--983
+\OT1/ptm/m/n/10.95 ferred dis-tri-bu-tion in each round is also a nor-mal dis-t
+ri-bu-tion, namely, $\OML/cmm/m/it/10.95 q[]\OT1/cmr/m/n/10.95 (\OML/cmm/b/it/1
+0.95 w\OT1/cmr/m/n/10.95 ) = \OMS/cmsy/m/n/10.95 N\OT1/cmr/m/n/10.95 (\OML/cmm/
+b/it/10.95 w\OT1/cmr/m/n/10.95 ; \OML/cmm/b/it/10.95 []\OML/cmm/m/it/10.95 ; \
+OT1/cmr/bx/n/10.95 []\OT1/cmr/m/n/10.95 )$\OT1/ptm/m/n/10.95 .
+ []
+
+[19pdfTeX warning (ext4): destination with the same identifier (name{equation.6
+.31}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.993 \item {
+             \bf Local Update:} Given the distribution of global variables, ...
+] [20pdfTeX warning (ext4): destination with the same identifier (name{equation
+.6.32}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.1051 \subsubsection
+                     {Batch MedHDP} \label{sec:medhdp}] [21]
+Overfull \hbox (0.58919pt too wide) in paragraph at lines 1095--1106
+\OT1/ptm/m/n/10.95 on-line MedLDA, we adopt the mild mean field as-sump-tion $\
+OML/cmm/m/it/10.95 q\OT1/cmr/m/n/10.95 (\OML/cmm/b/it/10.95 w\OML/cmm/m/it/10.9
+5 ; []; \OT1/cmr/bx/n/10.95 \OML/cmm/m/it/10.95 ; \OML/cmm/b/it/10.95 H[]\OT1/
+cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95 q\OT1/cmr/m/n/10.95 (\OML/cmm/b/it/10.95 
+w\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 q\OT1/cmr/m/n/10.95 ([])\OML/cmm/m/it/
+10.95 q\OT1/cmr/m/n/10.95 (\OT1/cmr/bx/n/10.95 \OT1/cmr/m/n/10.95 )\OML/cmm/m/
+it/10.95 q\OT1/cmr/m/n/10.95 (\OML/cmm/b/it/10.95 H[]\OT1/cmr/m/n/10.95 )$
+ []
+
+[22] [23pdfTeX warning (ext4): destination with the same identifier (name{equat
+ion.7.40}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.1165 \end{equation}
+                      where $a_k = u_k^* + \sum_{d \in B_t} s_{dk}$ and $b_k...
+] [24pdfTeX warning (ext4): destination with the same identifier (name{equation
+.7.47}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.1209 \end{enumerate}
+                      ]
+<plot_multic_commit_lda_jmlr.pdf, id=962, 793.88728pt x 402.48938pt>
+File: plot_multic_commit_lda_jmlr.pdf Graphic file (type pdf)
+
+<use plot_multic_commit_lda_jmlr.pdf>
+<plot_multic_commit_hdp_jmlr.pdf, id=963, 786.58173pt x 388.1706pt>
+File: plot_multic_commit_hdp_jmlr.pdf Graphic file (type pdf)
+
+<use plot_multic_commit_hdp_jmlr.pdf> [25]
+Underfull \vbox (badness 5726) has occurred while \output is active []
+
+ [26 <E:/Paper-Writing/JMLR/BayesPA/plot_multic_commit_lda_jmlr.pdf> <E:/Paper-
+Writing/JMLR/BayesPA/plot_multic_commit_hdp_jmlr.pdf>]
+<plot_acc_topic_multic_lda.pdf, id=1053, 792.89365pt x 404.95612pt>
+File: plot_acc_topic_multic_lda.pdf Graphic file (type pdf)
+
+<use plot_acc_topic_multic_lda.pdf>
+<plot_acc_topic_multic_hdp.pdf, id=1054, 794.97pt x 398.0566pt>
+File: plot_acc_topic_multic_hdp.pdf Graphic file (type pdf)
+
+<use plot_acc_topic_multic_hdp.pdf>
+<visualize_dist_paMedLDAave_0/0_1.pdf, id=1055, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_0/0_1.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_0/0_1.pdf>
+<visualize_dist_paMedLDAave_0/0_64.pdf, id=1056, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_0/0_64.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_0/0_64.pdf>
+<visualize_dist_paMedLDAave_0/0_512.pdf, id=1057, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_0/0_512.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_0/0_512.pdf>
+<visualize_dist_paMedLDAave_0/0_4096.pdf, id=1058, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_0/0_4096.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_0/0_4096.pdf>
+<visualize_dist_paMedLDAave_0/0_11269.pdf, id=1059, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_0/0_11269.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_0/0_11269.pdf>
+<visualize_dist_paMedLDAave_1/1_1.pdf, id=1060, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_1/1_1.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_1/1_1.pdf>
+<visualize_dist_paMedLDAave_1/1_64.pdf, id=1061, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_1/1_64.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_1/1_64.pdf>
+<visualize_dist_paMedLDAave_1/1_512.pdf, id=1062, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_1/1_512.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_1/1_512.pdf>
+<visualize_dist_paMedLDAave_1/1_4096.pdf, id=1063, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_1/1_4096.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_1/1_4096.pdf>
+<visualize_dist_paMedLDAave_1/1_11269.pdf, id=1064, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_1/1_11269.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_1/1_11269.pdf>
+<visualize_dist_paMedLDAave_6/6_1.pdf, id=1065, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_6/6_1.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_6/6_1.pdf>
+<visualize_dist_paMedLDAave_6/6_64.pdf, id=1066, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_6/6_64.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_6/6_64.pdf>
+<visualize_dist_paMedLDAave_6/6_512.pdf, id=1067, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_6/6_512.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_6/6_512.pdf>
+<visualize_dist_paMedLDAave_6/6_4096.pdf, id=1068, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_6/6_4096.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_6/6_4096.pdf>
+<visualize_dist_paMedLDAave_6/6_11269.pdf, id=1069, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAave_6/6_11269.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAave_6/6_11269.pdf>
+<visualize_dist_paMedLDAgibbs_0/0_0.pdf, id=1070, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAgibbs_0/0_0.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_0/0_0.pdf>
+File: visualize_dist_paMedLDAgibbs_0/0_0.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_0/0_0.pdf>
+<visualize_dist_paMedLDAgibbs_0/0_1.pdf, id=1071, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAgibbs_0/0_1.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_0/0_1.pdf>
+<visualize_dist_paMedLDAgibbs_0/0_8.pdf, id=1072, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAgibbs_0/0_8.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_0/0_8.pdf>
+<visualize_dist_paMedLDAgibbs_0/0_22.pdf, id=1073, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAgibbs_0/0_22.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_0/0_22.pdf>
+<visualize_dist_paMedLDAgibbs_1/1_0.pdf, id=1074, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAgibbs_1/1_0.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_1/1_0.pdf>
+File: visualize_dist_paMedLDAgibbs_1/1_0.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_1/1_0.pdf>
+<visualize_dist_paMedLDAgibbs_1/1_1.pdf, id=1075, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAgibbs_1/1_1.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_1/1_1.pdf>
+<visualize_dist_paMedLDAgibbs_1/1_8.pdf, id=1076, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAgibbs_1/1_8.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_1/1_8.pdf>
+<visualize_dist_paMedLDAgibbs_1/1_22.pdf, id=1077, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAgibbs_1/1_22.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_1/1_22.pdf>
+<visualize_dist_paMedLDAgibbs_6/6_0.pdf, id=1078, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAgibbs_6/6_0.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_6/6_0.pdf>
+File: visualize_dist_paMedLDAgibbs_6/6_0.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_6/6_0.pdf>
+<visualize_dist_paMedLDAgibbs_6/6_1.pdf, id=1079, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAgibbs_6/6_1.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_6/6_1.pdf>
+<visualize_dist_paMedLDAgibbs_6/6_8.pdf, id=1080, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAgibbs_6/6_8.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_6/6_8.pdf>
+<visualize_dist_paMedLDAgibbs_6/6_22.pdf, id=1081, 578.16pt x 433.62pt>
+File: visualize_dist_paMedLDAgibbs_6/6_22.pdf Graphic file (type pdf)
+
+<use visualize_dist_paMedLDAgibbs_6/6_22.pdf>
+Overfull \hbox (5.40779pt too wide) in paragraph at lines 1468--1469
+ [] 
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 1470
+.
+(C:\CTEX\MiKTeX\tex\latex\psnfss\ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+Underfull \vbox (badness 1331) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 2608) has occurred while \output is active []
+
+ [28 <E:/Paper-Writing/JMLR/BayesPA/plot_acc_topic_multic_lda.pdf> <E:/Paper-Wr
+iting/JMLR/BayesPA/plot_acc_topic_multic_hdp.pdf>]
+<plot_mtask_commit_jmlr.pdf, id=1137, 794.97pt x 417.11972pt>
+File: plot_mtask_commit_jmlr.pdf Graphic file (type pdf)
+
+<use plot_mtask_commit_jmlr.pdf> [29]
+<plot_multic_batchsize_jmlr-eps.pdf, id=1147, 1140.84177pt x 566.98067pt>
+File: plot_multic_batchsize_jmlr-eps.pdf Graphic file (type pdf)
+
+<use plot_multic_batchsize_jmlr-eps.pdf>
+<plot_multic_batchsize_hdp_jmlr.pdf, id=1148, 503.619pt x 243.3606pt>
+File: plot_multic_batchsize_hdp_jmlr.pdf Graphic file (type pdf)
+
+<use plot_multic_batchsize_hdp_jmlr.pdf>
+<plot_ij.pdf, id=1149, 614.295pt x 383.6457pt>
+File: plot_ij.pdf Graphic file (type pdf)
+ <use plot_ij.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30 <E:/Paper-Writing/JMLR/BayesPA/plot_mtask_commit_jmlr.pdf>] [31 <E:/Paper-W
+riting/JMLR/BayesPA/plot_multic_batchsize_jmlr-eps.pdf> <E:/Paper-Writing/JMLR/
+BayesPA/plot_multic_batchsize_hdp_jmlr.pdf>] [32 <E:/Paper-Writing/JMLR/BayesPA
+/plot_ij.pdf>] [33pdfTeX warning (ext4): destination with the same identifier (
+name{equation.A.49}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.1686 \end{equation*}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.49}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.1686 \end{equation*}
+                      ]
+Overfull \hbox (29.38918pt too wide) detected at line 1702
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1724--1725
+
+ []
+
+
+Overfull \hbox (18.35059pt too wide) in paragraph at lines 1750--1752
+\OT1/ptm/m/n/10.95 is uni-formly true for any given $\OT1/cmr/m/n/10.95 (\OML/c
+mm/b/it/10.95 w\OML/cmm/m/it/10.95 ; \OT1/cmr/bx/n/10.95 \OML/cmm/m/it/10.95 ;
+ \OML/cmm/b/it/10.95 Z[]\OT1/cmr/m/n/10.95 )$\OT1/ptm/m/n/10.95 , where $\U/msb
+/m/n/10.95 H\OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 \OT1/cmr/m/n/10.95 )$ \OT1
+/ptm/m/n/10.95 is the en-tropy op-er-a-tor and $\OML/cmm/m/it/10.95 q[] \OT1/cm
+r/m/n/10.95 = \OML/cmm/m/it/10.95 q\OT1/cmr/m/n/10.95 (\OML/cmm/b/it/10.95 [] 
+\OMS/cmsy/m/n/10.95 j \OML/cmm/b/it/10.95 w\OML/cmm/m/it/10.95 ; \OT1/cmr/bx/n/
+10.95 \OML/cmm/m/it/10.95 ; \OML/cmm/b/it/10.95 Z[]\OT1/cmr/m/n/10.95 )$\OT1/p
+tm/m/n/10.95 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1759--1763
+
+ []
+
+(E:\Paper-Writing\JMLR\BayesPA\BayesPA.bbl [34] [35] [36]
+Underfull \hbox (badness 4647) in paragraph at lines 233--236
+[]\OT1/ptm/m/n/10.95 Jan Luts, Tamara Brod-er-ick, and Matt Wand.  Real-time se
+mi-para-met-ric re-gres-sion.
+ []
+
+[37]
+LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 359.
+ [38]) [39]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1768.
+ [40 <E:/Paper-Writing/JMLR/BayesPA/visualize_dist_paMedLDAave_0/0_1.pdf> <E:/P
+aper-Writing/JMLR/BayesPA/visualize_dist_paMedLDAave_0/0_64.pdf> <E:/Paper-Writ
+ing/JMLR/BayesPA/visualize_dist_paMedLDAave_0/0_512.pdf> <E:/Paper-Writing/JMLR
+/BayesPA/visualize_dist_paMedLDAave_0/0_4096.pdf> <E:/Paper-Writing/JMLR/BayesP
+A/visualize_dist_paMedLDAave_0/0_11269.pdf> <E:/Paper-Writing/JMLR/BayesPA/visu
+alize_dist_paMedLDAave_1/1_1.pdf> <E:/Paper-Writing/JMLR/BayesPA/visualize_dist
+_paMedLDAave_1/1_64.pdf> <E:/Paper-Writing/JMLR/BayesPA/visualize_dist_paMedLDA
+ave_1/1_512.pdf> <E:/Paper-Writing/JMLR/BayesPA/visualize_dist_paMedLDAave_1/1_
+4096.pdf> <E:/Paper-Writing/JMLR/BayesPA/visualize_dist_paMedLDAave_1/1_11269.p
+df> <E:/Paper-Writing/JMLR/BayesPA/visualize_dist_paMedLDAave_6/6_1.pdf> <E:/Pa
+per-Writing/JMLR/BayesPA/visualize_dist_paMedLDAave_6/6_64.pdf> <E:/Paper-Writi
+ng/JMLR/BayesPA/visualize_dist_paMedLDAave_6/6_512.pdf> <E:/Paper-Writing/JMLR/
+BayesPA/visualize_dist_paMedLDAave_6/6_4096.pdf> <E:/Paper-Writing/JMLR/BayesPA
+/visualize_dist_paMedLDAave_6/6_11269.pdf> <E:/Paper-Writing/JMLR/BayesPA/visua
+lize_dist_paMedLDAgibbs_0/0_0.pdf> <E:/Paper-Writing/JMLR/BayesPA/visualize_dis
+t_paMedLDAgibbs_0/0_1.pdf> <E:/Paper-Writing/JMLR/BayesPA/visualize_dist_paMedL
+DAgibbs_0/0_8.pdf> <E:/Paper-Writing/JMLR/BayesPA/visualize_dist_paMedLDAgibbs_
+0/0_22.pdf> <E:/Paper-Writing/JMLR/BayesPA/visualize_dist_paMedLDAgibbs_1/1_0.p
+df> <E:/Paper-Writing/JMLR/BayesPA/visualize_dist_paMedLDAgibbs_1/1_1.pdf> <E:/
+Paper-Writing/JMLR/BayesPA/visualize_dist_paMedLDAgibbs_1/1_8.pdf> <E:/Paper-Wr
+iting/JMLR/BayesPA/visualize_dist_paMedLDAgibbs_1/1_22.pdf> <E:/Paper-Writing/J
+MLR/BayesPA/visualize_dist_paMedLDAgibbs_6/6_0.pdf> <E:/Paper-Writing/JMLR/Baye
+sPA/visualize_dist_paMedLDAgibbs_6/6_1.pdf> <E:/Paper-Writing/JMLR/BayesPA/visu
+alize_dist_paMedLDAgibbs_6/6_8.pdf> <E:/Paper-Writing/JMLR/BayesPA/visualize_di
+st_paMedLDAgibbs_6/6_22.pdf>] [41]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1768.
+
+(E:\Paper-Writing\JMLR\BayesPA\BayesPA.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1768.
+Package rerunfilecheck Info: File `BayesPA.out' has not changed.
+(rerunfilecheck)             Checksum: 633F2838C00EF8AFB33FF7ABBF00C135;1942.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 18800 strings out of 495362
+ 339454 string characters out of 3184022
+ 429767 words of memory out of 3000000
+ 21213 multiletter control sequences out of 15000+200000
+ 53371 words of font info for 121 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 62i,23n,56p,1978b,662s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbsy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmext
+ra/cmbsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/CTE
+X/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex
+10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/CTEX/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/CTEX/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmmi5.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.
+pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/CTEX/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmmi9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:
+/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib6.pfb><C:/CTEX/MiKTeX/fon
+ts/type1/public/amsfonts/cmextra/cmmib7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/
+amsfonts/cmextra/cmmib8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmextra
+/cmmib9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/CTEX/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/CTEX/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/CTEX/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmsy5.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/CTEX/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.
+pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/CTEX/MiK
+TeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/u
+tmb8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/CTEX/MiKTeX/fon
+ts/type1/urw/times/utmr8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
+>
+Output written on BayesPA.pdf (41 pages, 1302353 bytes).
+PDF statistics:
+ 1581 PDF objects out of 1728 (max. 8388607)
+ 256 named destinations out of 1000 (max. 500000)
+ 430 words of extra memory for PDF output out of 10000 (max. 10000000)
+
